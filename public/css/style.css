@@ -1,0 +1,30 @@
+.h1{
+    color: red;
+}
+
+.h2{
+    color: blue;
+}
+
+.p{
+    border: solid 2px red;
+    font-weight: bold;
+    background-color: red;
+    font-size: xx-large;
+}
+
+.h4first{
+    text-decoration: underline;
+}
+
+.ol-italic{
+    font-style: italic;
+}
+
+.h4second{
+
+}
+
+.ul-italic{
+    font-style: italic;
+}
